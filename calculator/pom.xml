@@ -35,7 +35,7 @@
       <repository>
         <id>echop</id>
         <!-- Use your nexus release URL here -->
-        <url>https://your_subdomain_name-8081.app.github.dev/repository/echop/</url>
+        <url>https://redesigned-space-chainsaw-697jg79xjwhrrgx-8081.app.github.dev/repository/echop/</url>
       </repository>
   </repositories>
 
@@ -43,12 +43,12 @@
       <repository>
         <id>nexus-releases</id>
         <!-- Use your nexus release URL here -->
-        <url>https://your_subdomain_name-8081.app.github.dev/repository/echart/</url>
+        <url>https://redesigned-space-chainsaw-697jg79xjwhrrgx-8081.app.github.dev/repository/echart/</url>
       </repository>
       <snapshotRepository>
         <id>nexus-snapshots</id>
         <!-- Use your nexus release URL here -->
-        <url>https://your_subdomain_name-8081.app.github.dev/repository/echop/</url>
+        <url>https://redesigned-space-chainsaw-697jg79xjwhrrgx-8081.app.github.dev/repository/echop/</url>
       </snapshotRepository>
   </distributionManagement>
 

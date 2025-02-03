@@ -1,0 +1,6 @@
+projectKey=com.echios:calculator
+serverUrl=https://redesigned-space-chainsaw-697jg79xjwhrrgx-9000.app.github.dev
+serverVersion=25.1.0.102122
+dashboardUrl=https://redesigned-space-chainsaw-697jg79xjwhrrgx-9000.app.github.dev/dashboard?id=com.echios%3Acalculator
+ceTaskId=8adc1cf1-b5e9-41bb-8d02-ef887f3ada64
+ceTaskUrl=https://redesigned-space-chainsaw-697jg79xjwhrrgx-9000.app.github.dev/api/ce/task?id=8adc1cf1-b5e9-41bb-8d02-ef887f3ada64
