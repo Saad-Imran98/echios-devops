@@ -37,7 +37,7 @@ pipeline {
                 nexusArtifactUploader(
                     credentialsId: 'nexus-jenkins',
                     groupId: "${groupId}",
-                    nexusUrl: 'YOURGITHUB_NEXUS_URL-8081.app.github.dev',
+                    nexusUrl: 'https://redesigned-space-chainsaw-697jg79xjwhrrgx-8081.app.github.dev',
                     nexusVersion: 'nexus3',
                     protocol: 'https',
                     repository: 'echop',
